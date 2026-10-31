@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "887555193007",
+    "firebase_url": "https://hospital-b491d-default-rtdb.firebaseio.com",
+    "project_id": "hospital-b491d",
+    "storage_bucket": "hospital-b491d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887555193007:android:ff7f534b95f2bada613c5a",
+        "android_client_info": {
+          "package_name": "com.example.hospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkhSKC6fYXAvlHl_iJhb6dBgHB6q4N05Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
